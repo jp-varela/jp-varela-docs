@@ -29,4 +29,4 @@ João's main workflow here: he pastes in raw notes/snippets from other sessions 
 - File the content into the right `.md` under `docs/`, in the appropriate location (existing page if it fits a topic already covered, new page if it's a new topic).
 - Update [docs/index.md](docs/index.md) to reflect the change (e.g. a pointer/summary entry for a new page or topic), since it's the landing page.
 - Free to reorganize: split, merge, rename, delete, or restructure `.md` files as needed to keep things coherent. The one hard rule: never lose meaningful information in the process, unless João explicitly says to drop it.
-- Once the edits for a request are finished, commit **directly to `main`** — no feature branches or PRs for this repo. That push is what triggers the GitHub Pages deploy.
+- Once the edits for a request are finished, commit **and push directly to `main`** — no feature branches or PRs for this repo. That push is what triggers the GitHub Pages deploy, so don't stop at a local commit.
