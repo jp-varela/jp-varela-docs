@@ -6,6 +6,11 @@ icon: lucide/rocket
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
+## Notes
+
+- [GCP](gcp.md) — gcloud CLI commands
+- [Environment](environment.md) — VS Code fonts/themes, Windows cursor and Windhawk mods
+
 ## Commands
 
 * [`zensical new`][new] - Create a new project
